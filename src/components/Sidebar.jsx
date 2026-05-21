@@ -20,7 +20,7 @@ export default function Sidebar() {
       onMouseEnter={() => setOpen(true)}
       onMouseLeave={() => setOpen(false)}
     >
-      <h3 className="logo">MC 41</h3>
+      <h3 className="logo">MABEO</h3>
 
       <Link to="/calendar">Calendar</Link>
     
