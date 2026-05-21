@@ -67,7 +67,7 @@ export default function Login() {
         }}
       >
         <h2 style={{ textAlign: "center", marginBottom: 20 }}>
-          MC 41 SYSTEM
+          MABEO
         </h2>
 
         <input
